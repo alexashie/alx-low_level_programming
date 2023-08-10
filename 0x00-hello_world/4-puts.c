@@ -1,9 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * 
  * Description: 'puts'
- * 
  * Return: Always 0 (Success)
  */
 int main(void)
