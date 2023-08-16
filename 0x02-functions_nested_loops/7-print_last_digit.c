@@ -2,6 +2,7 @@
 
 /**
  * print last digit of a number.
+ * @n: int to be printed
  * Return: lastDigit
 */
 

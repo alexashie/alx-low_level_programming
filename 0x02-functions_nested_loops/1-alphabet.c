@@ -1,8 +1,14 @@
 #include"main.h"
 
 /**
- * print_alphabet
-*/
+ * main - Entry point
+ * 
+ * print_alphabet: 'print_alphabet'
+ * @void: no parameter
+ * 
+ * Return:nothing
+ */
+
 
 void print_alphabet(void)
 {

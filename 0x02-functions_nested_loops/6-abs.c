@@ -3,6 +3,7 @@
 /**
  * _abs - function that computes the absolute
  *       value of an integer
+ * @n: signed integer to be assesed to become absolute
  * Return: Always 0 (Success)
 */
 
